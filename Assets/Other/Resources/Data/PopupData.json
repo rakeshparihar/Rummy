@@ -1,0 +1,27 @@
+{
+"data":[
+{
+  "headingMessage": "Disable Developer Options",
+  "descriptionMessage": "Please disable Developer Options & USB debugging to play Carrom Club. Press settings below to head to Developer Options and toggle the setting to OFF in that menu.",
+  "warningMessage": "",
+   "crossAllowed": true,
+  "isAutoClose": false,
+  "popUpType": "DISABLE_DEV_MODE"
+},
+{
+  "headingMessage": "Login with your account.",
+  "descriptionMessage": "You have already registered. Please login using your mobile number and password.",
+  "warningMessage": "",  
+  "crossAllowed": false,
+  "isAutoClose": false,
+  "popUpType": "ALREADY_REGISTERED"
+},
+{
+  "headingMessage": "Restricted Location",
+  "descriptionMessage": "",
+  "warningMessage": "Since you're playing from a restricted location, you cannot play the Cash version of the game.", 
+  "crossAllowed": true,
+  "isAutoClose": false,
+  "popUpType": "LOCATION_ACCESS"
+}
+]}
